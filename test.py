@@ -1,3 +1,0 @@
-for x in range(1,1,1):
-	print(x)
-	pass
